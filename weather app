@@ -21,4 +21,3 @@ print("enter the city name")
 city=input()
 city=city+" weather"
 weather(city)
-view rawweather.py hosted with ❤ by GitHub
